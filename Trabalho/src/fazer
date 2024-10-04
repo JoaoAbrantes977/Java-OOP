@@ -1,0 +1,22 @@
+Ver o trabalho P6 das bibliotecas e ver o que podemos implementar aqui neste
+
+Main:
+-Criar um buffer para ler o ficheiro alunos.txt caso o arrayList esteja vazio
+-Criar um buffer para ler o ficheiro professores.txt caso o arrayList esteja vazio
+
+
+Métodos overloading e classes abstratas / Interfaces
+
+/*
+    //Quando temos um ArrayList de livros podemos fazer um for da seguinte forma for(String livro: livros){}
+    public void adicionarLivro(String nome){
+        for(int i=0; i < livros.size(); i++){
+        // aqui podiamos colocar livros.get(i).equals();
+            if(nome == livros.get(i)){
+                System.out.println("Este livro já existe");
+            }else{
+                livros.add(nome);
+            }
+        }
+    }
+    */

@@ -1,0 +1,4 @@
+Professor{ nome=joao idade=56 genero=masculino codigo='3297'}
+Professor{ nome=pedro idade=45 genero=masculino codigo='2390'}
+Professor{ nome=joana idade=36 genero=f codigo='1698'}
+Professor{ nome=dasd idade=123 genero=mas codigo='2006'}

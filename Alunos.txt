@@ -1,0 +1,1 @@
+Aluno{numero=1, nome='Joao Carlos', pais='Portugal', genero='masculino', idade='25', pais='Portugal', universidadeOrigem='UBI', curso='info web', listaDisciplinas=[POO, Design]}

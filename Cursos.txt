@@ -1,0 +1,1 @@
+Curso{nome_curso='eng informatica', disciplinas=[POO]}
